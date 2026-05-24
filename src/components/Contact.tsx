@@ -43,7 +43,7 @@ const Contact = () => {
                     <LineChart className="w-10 h-10 md:w-12 md:h-12 text-white" />
                 </motion.a>
                 <motion.a
-                    href="mailto:piyushpar7@gmail.com"
+                    href="mailto:divyaparadkar@gmail.com"
                     whileHover={{ scale: 1.1 }}
                     transition={{ type: 'spring', stiffness: 400, damping: 10 }}
                     title="Email"

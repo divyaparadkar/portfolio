@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/piyushpp07/portfolio.git
+   git clone https://github.com/divyaparadkar/portfolio.git
    ```
 2. Install NPM packages
    ```sh
@@ -57,10 +57,10 @@ npm run build
 
 ## Live Demo
 
-[View Live Demo](https://piyushparadkar.com) (placeholder)
+[View Live Demo](https://divyaparadkar.com) (placeholder)
 
 ## Contact
 
-DIVYA PARADKAR - [@piyushparadkar](https://www.linkedin.com/in/piyush-paradkar/) - piyushpar7@gmail.com
+DIVYA PARADKAR - [@divyaparadkar](https://www.linkedin.com/in/divyaparadkar/) - divyaparadkar@gmail.com
 
-Project Link: [https://github.com/piyushpp07/portfolio](https://github.com/piyushpp07/portfolio)
+Project Link: [https://github.com/divyaparadkar/portfolio](https://github.com/divyaparadkar/portfolio)
