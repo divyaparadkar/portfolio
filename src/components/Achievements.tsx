@@ -7,7 +7,7 @@ const achievements = [
         title: 'LeetCode',
         description: 'Profile',
         icon: <Code className="w-8 h-8 text-white" />,
-        link: 'https://leetcode.com/u/sidi0110/',
+        link: 'https://leetcode.com/u/divyaparadkar/',
     },
     {
         title: 'HackerRank',
