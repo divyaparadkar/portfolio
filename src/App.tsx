@@ -1,5 +1,5 @@
 import { useEffect, Suspense, lazy } from 'react';
-import Lenis from '@studio-freight/lenis';
+import Lenis from 'lenis';
 
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
